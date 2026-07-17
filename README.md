@@ -1,4 +1,4 @@
 # c-shivam
 This is my first Git Repository
 <br>
-Author - Shivam Rajpure
+Author - Shivam (C-Shivam)
